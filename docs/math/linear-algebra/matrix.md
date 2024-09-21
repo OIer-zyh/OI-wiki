@@ -348,7 +348,7 @@ int main() {
 $$
 \begin{gathered}
 f_{1} = f_{2} = 0\\
-f_{n} = 7f_{n-1}+6f_{n-2}+5n+4\times 3^n
+f_{n} = 7f_{n-1}+6f_{n-2}+5n+4\times 3^n+5
 \end{gathered}
 $$
 
